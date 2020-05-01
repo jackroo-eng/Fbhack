@@ -19,7 +19,7 @@ except :
       os.system("bash run.sh")
       exit()
 def err():
-    print '\x1b[31m[!] Login Holo nah :-!'
+    print("Error")
     os.sys.exit()
 
 def jalan2(z):
