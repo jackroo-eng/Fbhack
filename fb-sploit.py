@@ -51,7 +51,7 @@ def intro():
 	       exit()
 intro()
 def logo():
-    print '\x1b[1;93m'
+    print()
     b='\n\x1b[1;93m* \x1b[1;92mAuthor  \x1b[1;91m: \x1b[1;96mArfat_Khan\x1b\n\n\x1b[1;93m* \x1b[1;93mFaceBook: \x1b[1;91m: \x1b[1;96mhttps://www.facebook.com/akbullethz0.2\n\x1b[1;93m* \x1b[1;91mWebsite  \x1b[1;91m: \x1b[1;96mhttps://www.technicalak-bd.blogspot.com\n *Github : https://github.com/arfatkhanbd'
     os.system("figlet FB Sploit")
     jalan('\x1b[1;93m*********FB_Sploit By Arfat_Khan*********')
